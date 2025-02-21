@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @tanner-tobey
+- 👋 Hi, I’m tanner
 - 👀 I’m interested in ...football, live music and technology
 - 🌱 I’m currently learning ...networking and coding
 - 💞️ I’m looking to collaborate on ... everything 
-- 📫 How to reach me ... thtobey@ttconsult.app
+- 📫 How to reach me ... tanner@mvptaskforce.org
 - 😄 Pronouns: ... Mr
 - ⚡ Fun fact: ... I have green eyes
 
