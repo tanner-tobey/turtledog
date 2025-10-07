@@ -1,4 +1,4 @@
-- 👋 Hi, I’m tanner
+- 👋 Hi, I’m Mr T
 - 👀 I’m interested in ...football, live music and technology
 - 🌱 I’m currently learning ...networking and coding
 - 💞️ I’m looking to collaborate on ... everything 
