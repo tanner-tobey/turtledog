@@ -1,0 +1,15 @@
+[workspace]
+members = [
+    "src/compiler",
+    "src/runtime"
+]
+
+[profile.release]
+lto = true
+codegen-units = 1
+panic = "abort"
+opt-level = 3
+
+[profile.dev]
+opt-level = 0
+debug = true
