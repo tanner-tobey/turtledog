@@ -1,0 +1,19 @@
+[package]
+name = "bluebird_runtime"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+# The allocator module might use a proven high-performance allocator like jemalloc
+# jemallocator = "0.5"
+
+# The concurrency module will be built on an async executor like tokio
+tokio = { version = "1", features = ["full"] }
+
+# The API layer will use a high-performance HTTP library like hyper
+hyper = { version = "0.14", features = ["full"] }
+
+# The Matrix engine may use libraries for SIMD access
+# packed_simd_2 = "0.3"

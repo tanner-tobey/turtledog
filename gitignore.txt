@@ -1,0 +1,1 @@
+Rust/Cargo specifictarget/Cargo.lockBlueBird compiled files*.o*.out*.exe*.bb.oIDE specific.idea/.vscode/

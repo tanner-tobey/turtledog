@@ -1,0 +1,27 @@
+[package]
+name = "bluebirdc"
+version = "0.1.0"
+edition = "2021"
+
+# The compiler depends on the runtime we created.
+[dependencies]
+bluebird_runtime = { path = "../../runtime" }
+
+# Common dependencies for a compiler:
+# For parsing command-line arguments
+clap = { version = "4.0", features = ["derive"] }
+
+# For robust error handling
+thiserror = "1.0"
+anyhow = "1.0"
+
+# For parsing the BlueBird source code (parser-combinator library)
+chumsky = "0.9"
+
+# LLVM bindings would be added here to generate machine code.
+# This is a complex dependency and would require LLVM to be installed on the system.
+# inkwell = { version = "0.1.0", features = ["llvm14-0"] }
+
+[build-dependencies]
+# This section is for dependencies needed only at compile-time,
+# for example, in a build.rs script.
