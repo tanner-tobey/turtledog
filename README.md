@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...football, live music and technology
 - 🌱 I’m currently learning ...networking and coding
 - 💞️ I’m looking to collaborate on ... everything 
-- 📫 How to reach me ... tanner@mvptaskforce.org
+- 📫 How to reach me ... comments and add to files  Lets create
 - 😄 Pronouns: ... Mr
 - ⚡ Fun fact: ... I have green eyes
 
